@@ -1,0 +1,3 @@
+[submodule "salt/roots/salt-formula-postgresql"]
+	path = submodules/salt-formula-postgresql
+	url = git@github.com:salt-formulas/salt-formula-postgresql.git

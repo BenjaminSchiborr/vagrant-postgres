@@ -1,0 +1,8 @@
+file_client: local
+file_roots:
+  base:
+    - /vagrant/salt/root
+    - /vagrant/submodules/salt-formula-postgresql
+pillar_roots:
+  base:
+    - /vagrant/salt/pillar
